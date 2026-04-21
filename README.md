@@ -58,11 +58,10 @@ This project focuses on evaluating password strength using an online password ch
 
 ```
 Task-6-Password-Analysis/
-
 ├── Screenshots/
-├── password_list.txt
+├── README.md
 ├── report.pdf
-└── README.md
+└── password_list.txt
 ```
 
 ---
