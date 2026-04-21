@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analysis (Task 6)
+# 🔐 Password Strength Analysis
 
 ## 📌 About
 This project focuses on evaluating password strength using an online password checker. Different passwords with varying complexity levels were created and tested to understand how password security works.
